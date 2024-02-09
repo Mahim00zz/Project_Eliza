@@ -19,9 +19,7 @@ public class PromptBank {
 		statements[3] = "It seems like BLANK1 and BLANK2 are on your mind. Let's talk about them and why they matter to you.";
 		statements[4] = "BLANK1 and BLANK2 have clearly captured your attention, and I'm genuinely eager to explore, tell me more.";
 		
-		/*complete this method with your other statements using BLANK1 for word1
-		 * and BLANK2 for word2 place holder 
-		 */
+		
 	}
 	public void populateQuestionsArray(){
 		questions[0] = "Is there anything else about BLANK1 and BLANK2?";
@@ -30,9 +28,7 @@ public class PromptBank {
 		questions[3] = "Apart from BLANK1 and BLANK2, is there anything else that sparks your interest?";
 		questions[4] = "When it comes to BLANK1, do you find it bothersome? And what about BLANK2, does it also pose any concerns for you?";
 		
-		/*complete this method with your other questions using BLANK1 for word1
-		 * and BLANK2 for word2 place holder 
-		 */
+		
 		
 	}
 	public String getRandomStatementTrunk(){
@@ -46,13 +42,7 @@ public class PromptBank {
 	}
 	
 	
-	/*  
-	public String getRandomStatementTrunk(){
-		//fill in the method so it randomly selects the statement template
-		//from the statements array ... hint use Math.random() to get the random index
-		//so you can replace BLANK1 and BLANK2 with the appropriate words
-	}
-	*/
+	
 	
 	public String getRandomQuestionTrunk(){
 		
@@ -68,13 +58,7 @@ public class PromptBank {
 	
 	
 	
-	/*
-	public String getRandomQuestionTrunk(){
-		//fill in the method so it randomly selects the question template
-		//from the questions array ... hint use Math.random() to get the random index
-		//so you can replace BLANK1 and BLANK2 with the appropriate words
-	}
-	*/
+	
 	
 	
 }
