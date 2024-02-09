@@ -1,7 +1,7 @@
 # Project_Eliza
 Introducing project ELIZA a chatbot made with java that produces prompt and response based on string manipulation.
 
-In this project Eliza is produced on the basis of string manipulation. Using the prompt bank we store, gather, question and release a statement. All of this is randomized to make sure to keep the user interested. I hope you like it and play around with it. 
+In this project, Eliza is produced on the basis of string manipulation. Using the prompt bank we store, gather, question and release a statement. All of this is randomized to make sure to keep the user interested. I hope you like it and play around with it. 
 
 Screenshots:
 
