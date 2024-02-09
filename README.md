@@ -11,7 +11,7 @@ Screenshots:
 * Java 11 or higher.
 
 ## Installation 🔌
-1. Press the **Edit** button (top right) to save copy of this project on your account.
+1. Press the **Fork** button (top right) to save copy of this project on your account.
 
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
