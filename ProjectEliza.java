@@ -1,7 +1,7 @@
 /*
  * https://youtu.be/RlhN3ha9wSM
  * Name: Mahim Rahaman
- * Description: This is Project 2 , This is a conversational project. Eliza will be its name and it will prompt questions based on my responses accordingly.
+ * Description: This is Project_Eliza , This is a conversational project. Eliza will be its name and it will prompt questions based on my responses accordingly.
  * 				Our main goal is to be able to use the first and the last word of the user response to come up with either a question or a statement. We will
  * 				also make Eliza respond accordingly if the user inputs anything with '.' , '?' and '!'.
  * Date created: 05/07/23
